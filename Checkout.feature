@@ -1,6 +1,6 @@
 Feature: Tela de Checkout
     Como cliente da EBAC-SHOP
-    Quero fazer concluir meu cadastro
+    Quero concluir meu cadastro
     Para finalizar minha compra
 
     Background:
